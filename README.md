@@ -1,3 +1,3 @@
 ### productLandingPage
 
-productLandingPage(https://hannahchen777.github.io/productLandingPage/productLandingPage.html)
+[productLandingPage](https://hannahchen777.github.io/productLandingPage/productLandingPage.html)
